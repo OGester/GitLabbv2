@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Zucchinibiffar med yogurt\n");
         System.out.println("Ingredienser\n");
         System.out.println("800g zucchini\n");
+        System.out.println("1 purjolök\n");
     }
 }
